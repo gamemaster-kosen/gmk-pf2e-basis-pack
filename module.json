@@ -1,0 +1,19 @@
+{
+  "id": "gmk-pf2e-basis-pack",
+  "title": "GMK - PF2e: Basis Pack",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Gamemaster Kosen",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "description": ""
+}
