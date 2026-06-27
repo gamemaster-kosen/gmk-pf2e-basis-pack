@@ -1,6 +1,5 @@
 # gmk-pf2e-basis-pack
-Basis Pack for GMK Modules.
-Shared content usable across various modules; reducing required filespace.
+Basis Pack for GMK Modules; contains shared content used by GMK modules to reduce required filespace.
 
 ---
 > **Paizo Inc. Community Use Policy**
