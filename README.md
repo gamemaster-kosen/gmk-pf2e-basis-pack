@@ -1,4 +1,4 @@
-# gmk-pf2e-basis-pack
+# GMK - PF2e: Basis Pack
 Basis Pack for GMK Modules; contains shared content used by GMK modules to reduce required filespace.
 
 ---
